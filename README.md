@@ -16,11 +16,6 @@ FastAPI – for backend API
 PDFMiner / PyMuPDF – for PDF parsing
 VS Code – for development
 🔹 Installation & Setup
-1️⃣ Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
 2️⃣ Set up a Virtual Environment
 bash
 Copy code
